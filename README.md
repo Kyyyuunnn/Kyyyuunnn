@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Steven Nguyen and welcome to my profile!<br>My current hobbies and things that I enjoy are playing games and listening to new genres of music.<br>Currently I am (somewhat) proficient in C and C++ and learning the basics of Python!<br>My next (and first) project that I am building is a Real-Time Expense Tracker!<br>
+Hi! I'm Steven Nguyen and welcome to my profile!<br>My current hobbies and things that I enjoy are playing games and listening to new genres of music.<br>Currently I am (somewhat) proficient in C and C++ and learning the basics of Python!<br>
 
 
 # 💻 Tech Stack:
