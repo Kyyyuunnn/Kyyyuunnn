@@ -1,7 +1,7 @@
 Hello! 👋
 - My name is Steven Nguyen!
 - I am currently a student at University of Houston studying CIS. (Computer Information Systems)
-- I'm currently interested in web development as my main project currently is creating a website for VNRec my personal visual novel recommender.
+- I'm currently interested in AI, planning to create a web extention that'll auto generate subtitles! (Primarily from Japanese to English)
 - If you'd like to message me please reach out on discord: kyunnnn
 
 
