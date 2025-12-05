@@ -1,7 +1,7 @@
 Hello! 👋
 - My name is Steven Nguyen!
 - I am currently a student at University of Houston studying CIS. (Computer Information Systems)
-- I'm currently interested in AI, planning to create a web extention that'll auto generate subtitles! (Primarily from Japanese to English)
+- I'm currently interested in CyberSecurity!
 - If you'd like to message me please reach out on discord: kyunnnn
 
 
